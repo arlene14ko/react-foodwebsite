@@ -1,0 +1,13 @@
+use card (react bootstrap)
+
+add last updated
+
+Carousel (react bootstrap)
+
+Jumbotron (fluid) react bootstrap
+
+Spinner
+
+Search bar
+
+
